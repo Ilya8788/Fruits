@@ -23,5 +23,6 @@ for (let i = 0; i < arr.length; i++) {
 const apple = document.querySelector(".apple");
 
 apple.addEventListener("click", function () {
+  bottom.setAttribute("style");
   bottom.textContent = "Apple";
 });
