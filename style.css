@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.reset {
+  background-color: white;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+body {
+  height: 100vh;
+}
+
+.container {
+  height: 800px;
+}
+
+header {
+  background-color: silver;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.bottom {
+  background-color: aqua;
+  /* height: 50px; */
+}
+
+#app {
+  border: solid black 1px;
+  border-radius: 500%;
+  background-color: black;
+}
