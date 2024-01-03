@@ -40,11 +40,12 @@ header {
 
 .bottom {
   background-color: aqua;
-  /* height: 50px; */
+  height: 80px;
 }
 
 #app {
   border: solid black 1px;
   border-radius: 500%;
   background-color: black;
+  /* font-size: large; */
 }
